@@ -44,6 +44,6 @@ I prefer the zip version, because there is no need to run any installer. Moreove
 
 ## Contributors
 
-> Manideep Bejjanki
-> Laxmi Durga Prasad
-> Vasu Deva Reddy
+* Manideep Bejjanki
+* Laxmi Durga Prasad
+* Vasu Deva Reddy
