@@ -6,7 +6,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 ## Technologies Used
 
-* Tech 1 - HTML/CSS/JavaScript
+* Tech 1 - HTML, CSS, JavaScript
 * Tech 2 - Java, Hibernate
 * Tech 3 - MySQL
 
